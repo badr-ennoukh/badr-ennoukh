@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Badr EN-NOUKH</h1>
 <h3 align="center">System & Network Administrator, CyberSecurity Engineer, Junior Pentester</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=badren-noukh&label=Profile%20views&color=0e75b6&style=flat" alt="badren-noukh" /> </p>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 - 🔭 I’m currently Learning on **CyberSecurity, Penetration Tester, Malware Analysis**
 
