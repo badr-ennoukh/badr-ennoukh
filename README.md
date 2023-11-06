@@ -30,10 +30,7 @@ Pentesting /vulnerability detection : I have practical experience using  Tools s
 
 I have also studied the top 10 OWASP vulnerabilities 
 
-Malware Analysis : Detect it Easy, Strings, VirusTotal, Resource Hacker, FakeNet, Regshot, Process Monitor.
-
-
-![image](https://github.com/badr-ennoukh/badr-ennoukh/assets/149939657/7f37b93c-c403-4034-8a19-f31ecbc17667)
+Malware Analysis: Detect it Easy, Strings, VirusTotal, Resource Hacker, FakeNet, Regshot, Process Monitor.
 
 CERTIFICATIONS : 
   EJPTv2, OSCP                   Study in progress 
