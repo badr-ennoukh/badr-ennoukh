@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badren-noukh&label=Profile%20views&color=0e75b6&style=flat" alt="badren-noukh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badren-noukh" alt="badren-noukh" /></a> </p>
-
 - 🔭 I’m currently Learning on **CyberSecurity, Penetration Tester, Malware Analysis**
 
 - 📝 I regularly write articles on **https://medium.com/@ennoukhbadr**
